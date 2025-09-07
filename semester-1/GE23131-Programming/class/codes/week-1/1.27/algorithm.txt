@@ -1,0 +1,5 @@
+Start
+Step 1 : INPUT : num # input stage
+Step 2 : num = num / 10 # process stage 1
+Step 3 : OUTPUT : "The number after removing the last digit is num" # output stage 1
+Step 4 : End

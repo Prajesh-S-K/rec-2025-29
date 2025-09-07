@@ -1,0 +1,6 @@
+Start
+Step 1 : INPUT : num # input stage
+Step 2 : IF num % 10 == 0, then goto Step 3 Otherwise goto Step 4 # process stage 1
+Step 3 : OUTPUT : "The number is a multiple of 10" # output stage 1
+Step 4 : OUTPUT : "The number is not a multiple of 10" # output stage 2
+Step 5 : End

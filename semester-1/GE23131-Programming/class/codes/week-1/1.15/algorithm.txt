@@ -1,0 +1,7 @@
+Start
+Step 1 : INPUT : num1 # input stage
+Step 2 : INPUT : num2 # input stage
+Step 3 : IF num1 == num2, then goto Step 4 Otherwise goto Step 5 # process stage 1
+Step 4 : OUTPUT : "Both numbers are equal" # output stage 1
+Step 5 : OUTPUT : "The numbers are not equal" # output stage 2
+Step 6 : End

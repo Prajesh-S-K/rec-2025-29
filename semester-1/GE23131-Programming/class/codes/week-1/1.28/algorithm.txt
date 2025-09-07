@@ -1,0 +1,10 @@
+Start
+Step 1 : INITIALIZE cleared = 1 # process stage 1
+Step 2 : FOR i = 1 to 5, do Step 3 # loop input stage
+Step 3 : INPUT : marks[i] # input stage
+Step 4 : FOR i = 1 to 5, do Step 5 # loop process stage
+Step 5 : IF marks[i] < 40, then set cleared = 0 and break the loop # process stage 2
+Step 6 : IF cleared == 1, then goto Step 7 Otherwise goto Step 8 # process stage 3
+Step 7 : OUTPUT : "The student has cleared the semester" # output stage 1
+Step 8 : OUTPUT : "The student has not cleared the semester" # output stage 2
+Step 9 : End

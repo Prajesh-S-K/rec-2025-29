@@ -1,0 +1,11 @@
+Start
+Step 1 : INPUT : num1 # input stage
+Step 2 : INPUT : num2 # input stage
+Step 3 : INPUT : operator (+ or -) # input stage
+Step 4 : IF operator == '+', then goto Step 5 Otherwise goto Step 6 # process stage 1
+Step 5 : result = num1 + num2 # process stage 2
+Step 6 : IF operator == '-', then goto Step 7 Otherwise goto Step 9 # process stage 3
+Step 7 : result = num1 - num2 # process stage 4
+Step 8 : OUTPUT : "Result" # output stage 1
+Step 9 : OUTPUT : "error" # output stage 2
+Step 10 : End

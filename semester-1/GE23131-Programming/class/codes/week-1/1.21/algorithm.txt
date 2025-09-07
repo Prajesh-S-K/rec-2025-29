@@ -1,0 +1,8 @@
+Start
+Step 1 : INPUT : age # input stage
+Step 2 : IF age >= 0 AND age <= 12, then goto Step 3 Otherwise goto Step 4 # process stage 1
+Step 3 : OUTPUT : "The person is a child" # output stage 1
+Step 4 : IF age >= 13 AND age <= 19, then goto Step 5 Otherwise goto Step 6 # process stage 2
+Step 5 : OUTPUT : "The person is a teenager" # output stage 2
+Step 6 : OUTPUT : "The person is an adult" # output stage 3
+Step 7 : End

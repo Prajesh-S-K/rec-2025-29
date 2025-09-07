@@ -1,0 +1,6 @@
+Start
+Step 1 : INPUT : salary # input stage
+Step 2 : IF salary > 5000, then goto Step 3 Otherwise goto Step 4 # process stage 1
+Step 3 : OUTPUT : "The salary is taxable" # output stage 1
+Step 4 : OUTPUT : "The salary is not taxable" # output stage 2
+Step 5 : End
