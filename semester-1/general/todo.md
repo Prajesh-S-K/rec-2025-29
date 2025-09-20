@@ -9,13 +9,6 @@
 
 ---
 
-## Today — Sat, 20 Sep
-- [X] Register for **anti-ragging** link
-- [X] Register for **Dosth placements** link
-- [X] Join **Google Classrooms**: Maths, Chemistry, ICFM, PUC
-- [X] Download **ICFM 5-unit question bank** (DigiCampus)
-- [X] Gather **original certificates** (if pending) + **course-registration printout** (for Monday)
-
 **PUC**
 - [ ] Finish **Cycle-2 programs** (Exp **1, 9, 10**)
 - [ ] Tidy and finalize **PUC notes**
@@ -28,13 +21,8 @@
 - [ ] Complete **observation** for **3 experiments**  
   _Ex-9 Viscometry, Ex-10 Nanomaterials, +1 as instructed; include graphs (get signature Monday)_
 
-**Tech Com**
-- [X] Draft **1–2 min self-intro**
-- [X] Prepare **Q-list (no answers)** on **A4** with a simple front page
-- [X] Revise **tenses** for class test
 
 **Electron Devices**
-- [X] Read **Unit 1** (quiz Thu)
 - [ ] **Clarify** whether to start the **record** now (earlier note said “don’t start”)
 
 ---
@@ -42,32 +30,24 @@
 ## Sunday — 21 Sep (Finish & Print)
 - [ ] **PUC**: final test-run of programs; format notes
 - [ ] **Maths**: final check Q1–Q3; tidy notes
-- [X] **Tech Com**: rehearse self-intro (75–90 sec)
 - [ ] **Chem**: polish observation pages; diagrams neat
-- [X] Print **Chemistry notes** hardcopy **(spiral-bind)**
 - [ ] **Spiral-bind** PUC lab manual
-- [X] Print **Tech Com worksheet** (if required)
-- [X] Print **course-registration form**
+
 
 ---
 
 ## Monday — 22 Sep (Submissions & Signatures)
 - [ ] **Bring lab coat**
-- [X] Bring **course-registration printout**
-- [X] Bring **original certificates** (if not yet submitted)
 - [ ] Bring **spiral-bound Chemistry notes** & **PUC lab manual**
-- [X] Bring **Tech Com worksheet**
 - [ ] **Submit PUC programs** (Cycle-2)
 - [ ] **Chemistry**: get **observation signed**
 - [ ] **Chemistry**: start **record** (finish ≥1 experiment by Tue)
-- [X] **Admin**: submit original certificates (if pending)
 
 ---
 
 ## Tuesday — 23 Sep (Tests + Lab)
 - [ ] **Chemistry test (1st slot)** — Lead-acid battery; Li-ion battery; Potentiometric titration; Conductometric titration _(bring A4)_
 - [ ] **Chemistry lab (2nd slot)** — continue **record**
-- [X] **Tech Com** — deliver **self-intro (1–2 min)** & **submit Q-list A4**
 
 ---
 
@@ -78,14 +58,12 @@
 ---
 
 ## Thursday — 25 Sep (Electron Devices)
-- [X] **Electron Devices MCQ/quiz (2nd slot)** — Unit 1
 - [ ] Bring **lab manual & record**
 - [ ] Ensure **PN Junction Diode (Exp-1) record** is completed before lab
 
 ---
 
 ## Ongoing
-- [X] Maintain **≥75% attendance** _(DigiCampus entries in ~2–3 weeks)_
 - [ ] Continue **Chemistry record** after observation signature until complete
 - [ ] **Chemistry assignment (Unit-1: EMF series)** — write as a test; submit when asked
 - [ ] Bring **certificate copies** for **UMIS portal** (per official list)
